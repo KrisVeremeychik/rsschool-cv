@@ -1,4 +1,8 @@
 .name {
     font-size: 15px;
     font-color: red;
+    border-right: 8px double #FF0000;
+     border-left: 8px double #FF0000;
+     border-bottom: 8px double #FF0000;
+     border-top: 4px dotted #FDD201;
 }
